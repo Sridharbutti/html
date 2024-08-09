@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>emmets shortcuts</title>
+</head>
+
+<body>
+    <center>
+        <table border="2" cellpadding="8" cellspacing="8">
+            <caption>
+                <h1>Emmets Shortcuts Table</h1>
+                <hr>
+            </caption>
+
+            <thead bgcolor="grey">
+                <tr>
+                    <th>emmets</th>
+                    <th>description</th>
+                </tr>
+            </thead>
+            <tbody bgcolor="skyblue">
+                <tr>
+                    <td>
+                        <center>! (or) html5</center>
+                    </td>
+                    <td>
+                        <center>generates a basic html5 template.</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center>tagname</center>
+                    </td>
+                    <td>
+                        <center>expands the complete tag</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center>></center>
+                    </td>
+                    <td>
+                        <center>used to create child elements with in a parent element</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center>+</center>
+                    </td>
+                    <td>
+                        <center>used to create sibling elements</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center>^</center>
+                    </td>
+                    <td>
+                        <center>moves up one level in the hierarcht,allow to add sibling elements</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center>*</center>
+                    </td>
+                    <td>
+                        <center>create multiple elements</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center>[]</center>
+                    </td>
+                    <td>
+                        <center>to show thecustom attribute</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center>{}</center>
+                    </td>
+                    <td>
+                        <center>to create text within an element</center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
+</body>
+
+</html>
